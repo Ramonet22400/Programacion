@@ -15,3 +15,10 @@ Creados la clase y el main, tendremos que declarar las diferentes variables: 2 a
 * int resultado_final1 =0;
 * int resultado_final2 =0;
 * int suma_final = 0;
+
+Para poder entender mejor el ejercicio lo dividiremos la explicación entre los 5 bucles de los que esta formado el programa.
+
+El primero de los bucles es
+
+
+
