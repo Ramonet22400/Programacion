@@ -18,7 +18,9 @@ Creados la clase y el main, tendremos que declarar las diferentes variables: 2 a
 
 Para poder entender mejor el ejercicio lo dividiremos la explicación entre los 4 bucles de los que esta formado el programa.
 
-El primero de los bucles es un bucle **for**, este lo que hara es repetir sobre si mismo 4 veces con la variable *fila*, dentro de este bucle tenemos otro bucle **for** que se repetira 5 veces con la variable *columna*. De esta forma el bucle imprimira una tabla de 4 filas por 5 columnas
+El primero de los bucles es un bucle **for**, este lo que hara es repetir sobre si mismo 4 veces con la variable *fila*, dentro de este bucle tenemos otro bucle **for** que se repetira 5 veces con la variable *columna*. 
+
+De esta forma el bucle imprimira una tabla de 4 filas por 5 columnas, dentro del segundo bucle encontramos la variable primer_array, donde se le imprimiran valores aleatorios del 0 al 10, se imprime por pantalla y luego se añade a array_resultado los valores de la fila. De esta forma tendremos la sexta columna con la suma de todos los valores de la fila
 
 
 
