@@ -20,7 +20,15 @@ Para poder entender mejor el ejercicio lo dividiremos la explicación entre los 
 
 El primero de los bucles es un bucle **for**, este lo que hara es repetir sobre si mismo 4 veces con la variable *fila*, dentro de este bucle tenemos otro bucle **for** que se repetira 5 veces con la variable *columna*. 
 
-De esta forma el bucle imprimira una tabla de 4 filas por 5 columnas, dentro del segundo bucle encontramos la variable primer_array, donde se le imprimiran valores aleatorios del 0 al 10, se imprime por pantalla y luego se añade a array_resultado los valores de la fila. De esta forma tendremos la sexta columna con la suma de todos los valores de la fila
+De esta forma el bucle imprimira una tabla de 4 filas por 5 columnas, dentro del segundo bucle encontramos la variable primer_array, donde se le imprimiran valores aleatorios del 0 al 10, se imprime por pantalla y luego se añade a array_resultado los valores de la fila. De esta forma tendremos la sexta columna con la suma de todos los valores de la fila.
+
+Este bucle imprimira la tabla con los valores aleatorios, mas de todos los valores de cada fila.
+
+| 2 | 4 | 3 | 6 | 2 | 17 |
+
+El siguiente bucle recorrera las columnas de la tabla ya creada sumando los valores al array_resultado en las *columnas*, de esta forma tendremos en la tabla los valores aleatorios, la suma de los valores de las filas y las de las columnas. 
+
+
 
 
 
