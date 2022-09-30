@@ -6,4 +6,12 @@ que lo mostrará. El programa aparte de visualizar los números tiene que mostra
 sumas parciales de las filas y las columnas. En la esquina inferior derecha, saldrá la 
 suma total de la columna y fila de resultados.*
 
-Lo primero que haremos en este programa es cargar dos imports: Scanner y Random. El primero nos permetira 
+Lo primero que haremos en este programa es cargar el import Random, gracias a este podremos generar numeros de forma aleatoria.
+
+Creados la clase y el main, tendremos que declarar las diferentes variables: 2 arrays, y luego tres variables para introducir valores.
+
+* int[][] primer_array = new int[4][5];
+* int[][] array_resultado = new int[5][6];
+* int resultado_final1 =0;
+* int resultado_final2 =0;
+* int suma_final = 0;
